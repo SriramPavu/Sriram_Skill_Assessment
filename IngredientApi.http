@@ -1,0 +1,6 @@
+@IngredientApi_HostAddress = http://localhost:5073
+
+GET {{IngredientApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
